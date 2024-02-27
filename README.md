@@ -1,13 +1,13 @@
 # algoritmos-e-estruturas-de-dados-i
 Repo Algoritmos e Estruturas de Dados I
 
-# Perfil do Estudante de Engenharia de Software - PUC Minas
+# Perfil do Estudante de Ciência da Computação - PUC Minas
 
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Ciência da Computação na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
+- 👨‍🎓 **Graduação**: Ciência da Computação na PUC Minas - em andamento.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
